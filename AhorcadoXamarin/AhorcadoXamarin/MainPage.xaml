@@ -4,8 +4,29 @@
              xmlns:local="clr-namespace:AhorcadoXamarin"
              x:Class="AhorcadoXamarin.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+
+    <StackLayout Orientation="Vertical">
+        <Image x:Name="imageAhorcado"></Image>
+        <Label x:Name="labelPalabra"></Label>
+        <Grid x:Name="gridBotonera">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </StackLayout>
+    
+	
 
 </ContentPage>

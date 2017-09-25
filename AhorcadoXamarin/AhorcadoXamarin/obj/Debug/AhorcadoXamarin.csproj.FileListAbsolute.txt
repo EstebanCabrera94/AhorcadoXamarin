@@ -1,0 +1,16 @@
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\AhorcadoXamarin.dll
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\AhorcadoXamarin.pdb
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.MainPage.xaml.g.cs
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.App.xaml.g.cs
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.dll
+C:\Users\Esteban\source\repos\AhorcadoXamarin\AhorcadoXamarin\AhorcadoXamarin\obj\Debug\AhorcadoXamarin.pdb
